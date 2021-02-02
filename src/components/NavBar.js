@@ -21,7 +21,7 @@ export default function Navbar() {
                     </NavLink>
                 </nav>
                 <div className="inline-flex py-3 px-3 my-6">
-                    <SocialIcon url="https://github.com/djsiya27" className="mr-4" target="_blank" fgColor="#fff" style={{ height:35, width:35}} />
+                    <SocialIcon url="https://github.com/djsiya27" className="mr-4" target="_blank" fgColor="#fff" bgColor="#000" style={{ height:35, width:35}} />
                     <SocialIcon url="https://www.linkedin.com/in/siyabonga-majola-96a81149/" className="mr-4" target="_blank" fgColor="#fff" style={{ height:35, width:35}} />
                     <SocialIcon url="https://www.facebook.com/djcya.majola/" className="mr-4" target="_blank" fgColor="#fff" style={{ height:35, width:35}} />
                 </div>
