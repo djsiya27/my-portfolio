@@ -39,7 +39,7 @@ export default function Post() {
                             </span>
                         </Link>
                     </article>
-                    ))};
+                    ))}
                 </div>
             </section>
         </main>
